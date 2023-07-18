@@ -71,9 +71,8 @@ nav{
     transition: all ease-in-out 350ms;
 }
 .join-button{
-    color: #131418;
-    background-color: #00ff88;
-    border: 1.5px solid #00ff88;
+    color: #131418;color:#01939c;
+    border: 1.5px solid #01939c;
     border-radius: 2em;
     padding: 0.6rem 0.8rem;
     font-size: 1rem;
@@ -170,4 +169,7 @@ li.fade{
 }
 .toggle .line3{
     transform: rotate(45deg) translate(-5px,-6px);
+}
+body{
+    background-color: #d358f7;
 }
